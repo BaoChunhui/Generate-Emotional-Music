@@ -1,0 +1,95 @@
+1. What's your name?
+
+2. How old are you?
+
+3. What is your gender?
+
+(1) Male       (2) Female
+
+4. Can you tell me your musicianship experience?
+
+(1) I've never studied music theory or practice
+
+(2) I've studied music theory or practice within two years
+
+(3) I've studied music theory or practice for two to five years
+
+(4) I've studied music theory or practice for more than five years
+
+(5) I have an academic degree in music
+
+Listen melodies and read their lyrics, answer the following questions.
+
+5. What kind of emotion is expressed in music segment 1?
+
+(1) Positive       (2) Negative
+
+6. What kind of emotion is expressed in music segment 2?
+
+(1) Positive       (2) Negative
+
+7. What kind of emotion is expressed in music segment 3?
+
+(1) Positive       (2) Negative
+
+8. What kind of emotion is expressed in music segment 4?
+
+(1) Positive       (2) Negative
+
+9. What kind of emotion is expressed in music segment 5?
+
+(1) Positive       (2) Negative
+
+10. What kind of emotion is expressed in music segment 6?
+
+(1) Positive       (2) Negative
+
+11. What kind of emotion is expressed in music segment 7?
+
+(1) Positive       (2) Negative
+
+12. What kind of emotion is expressed in music segment 8?
+
+(1) Positive       (2) Negative
+
+13. What kind of emotion is expressed in music segment 9?
+
+(1) Positive       (2) Negative
+
+14. What kind of emotion is expressed in music segment 10?
+
+(1) Positive       (2) Negative
+
+15. What kind of emotion is expressed in music segment 11?
+
+(1) Positive       (2) Negative
+
+16. What kind of emotion is expressed in music segment 12?
+
+(1) Positive       (2) Negative
+
+Music segments 1-6 are ground-truth music pieces and 7-12 are generated music pieces. Please answer following questions 
+
+17. How meaningful are the ground-truth lyrics?
+
+(1) Very bad (2) Bad (3) Ok (4) Good (5) Very good
+
+18. How sounds good are the ground-truth melodies?
+
+(1) Very bad (2) Bad (3) Ok (4) Good (5) Very good
+
+19. How well does the melodies fit the lyrics for ground-truth segments.
+
+(1) Very bad (2) Bad (3) Ok (4) Good (5) Very good
+
+20. How meaningful are the generated lyrics?
+
+(1) Very bad (2) Bad (3) Ok (4) Good (5) Very good
+
+21. How sounds good are the generated melodies?
+
+(1) Very bad (2) Bad (3) Ok (4) Good (5) Very good
+
+22. How well does the melodies fit the lyrics for generated segments.
+
+(1) Very bad (2) Bad (3) Ok (4) Good (5) Very good
