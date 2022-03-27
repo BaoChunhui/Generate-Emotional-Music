@@ -1,4 +1,0 @@
-segment 1-3 positive
-segment 4-6 negative
-segment 7-9 positive
-segment 10-12 negative 
