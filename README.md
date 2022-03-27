@@ -1,6 +1,6 @@
 # Generate-Emotional-Music
 
-This is the dataset and code for "Generating Music with Emotions"
+This is the dataset and code for paper "Generating Music with Emotions"
 
 The paired lyric-melody datasets are in the file “lyrics_datasets_v3”. All the datasets are stored in the .npy format. 
 
