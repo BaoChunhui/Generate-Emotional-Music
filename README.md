@@ -1,6 +1,6 @@
 # Generate-Emotional-Music
 
-This is the dataset and code for paper "Generating Music with Emotions". Full version with datasets can be downloaded by using this google drive link: 
+This is the code for paper "Generating Music with Emotions". Full version with datasets can be downloaded by using this google drive link: 
 https://drive.google.com/file/d/1_kLkFcaVbgzIu9Ck3V4ME9xbPCSBrHMX/view?usp=sharing
 
 The paired lyric-melody datasets are in the file “lyrics_datasets_v3”. All the datasets are stored in the .npy format. 
