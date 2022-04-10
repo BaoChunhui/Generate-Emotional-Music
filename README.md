@@ -1,6 +1,7 @@
 # Generate-Emotional-Music
 
-This is the dataset and code for paper "Generating Music with Emotions"
+This is the dataset and code for paper "Generating Music with Emotions". Full version with datasets can be downloaded by using this google drive link: 
+https://drive.google.com/file/d/1_kLkFcaVbgzIu9Ck3V4ME9xbPCSBrHMX/view?usp=sharing
 
 The paired lyric-melody datasets are in the file “lyrics_datasets_v3”. All the datasets are stored in the .npy format. 
 
@@ -17,6 +18,4 @@ For training the music emotion classifier, please first run “lyrics_datasets_v
 For training the lyric and melody generator, please run “GRU_generator.py” and “Transformer_generator.py”. 
 
 For using the EBS algorithm to generate music segments, please run “GRU_EBS.py” and “Transformer_EBS.py”. 
-
-
 
